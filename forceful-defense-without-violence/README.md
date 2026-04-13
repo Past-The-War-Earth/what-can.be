@@ -16,7 +16,7 @@ Alive, Whole, Undamaged
 
 ## Mechanisms
 
-Progressively with the reduction of conflict progress from technological control to over combat to self-enforced moral values based system.
+Progressively with the reduction of conflict progress from technological control to over combat to self-enforced [moral values](./Moral_values.md) based system.
 
 ### Armor before weapons
 
@@ -30,7 +30,7 @@ There will always be armor.
 
 ### Stage two
 
-Establish planetary separation of non-destructive Non-Lethal, Non-Mutilating, No Serious Injury human combat and technological combat without direct human participation.  Starting with small-scale real-world demonstrations progressively adopt this system.
+Establish planetary separation of non-destructive Non-Lethal, Non-Mutilating, No Serious Injury human combat and technological combat without direct human participation.  Starting with small-scale [real-world demonstrations](./Real_world_demonstration.md) progressively adopt this system.
 
 ...
 
