@@ -16,7 +16,7 @@ Original contest format proposal for standardization - no charging, one-on-one, 
 
 No mechanical implements in or around the contest area.  No equipment in the contest area besides safety gear and impact dampening implements. Sufficiently padded body prosthetics are allowed.
 
-One older, more experienced director per 3 defenders - in supervising function only.  One supervising coordinator and one coordinator assistant per 3 directors.  2 or more embedded medics under each supervising coordinator.  One morale, one physical and one tactical supervisor and communications staff for up to 3 levels above.  Up to one headquarters with up to 5 members present within the contested territory.
+One older, more experienced director per 3 defenders - in supervising function only.  One supervising coordinator and one coordinator assistant per 3 directors.  2 or more embedded medics under each supervising coordinator.  One morale, one physical and one tactical supervisor and communications personnel for up to 3 levels above.  Up to one headquarters with up to 5 members present within the contested territory.
 
 No weapons in or around the contest area.  Directors are allowed to use padded long staff for the sole purpose of long-range touch communication with their team.
 
