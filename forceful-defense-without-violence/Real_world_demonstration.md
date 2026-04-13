@@ -4,13 +4,13 @@ In accordance with [moral values](./Moral_values.md) of forceful defense without
 
 Goal - standardization of the most safe version of tactical, forceful defense without violence between human participants.
 
-A contest for territorial control of a well demarcated area. On sufficiently firm, stable and not very hard surface.
+A contest for territorial control of a well demarcated area. On a sufficiently firm, stable and not very hard surface.
 
 Involving only willing, well trained in forceful defense without violence, physically and morally prepared individuals of military service age who have been determined to be fit for participation by a medical authority.  Only male participation in direct forceful contact.
 
 Within or between paramilitary or defense-patriotic organizations of a given nation or state.  Where possible as training in military units.  Within or between informal groups provided their mutual disciplined adherence to all rules and sufficient direct oversight.
 
-An observing party with a higher order enforcement authority must be sufficiently present.  The enforcement authority reserves the right to immedately end the contest in case of unmitigated violation of the rules or loss of control.
+An observing party with a higher order enforcement authority must be sufficiently present.  The enforcement authority reserves the right to immediately end the contest in case of unmitigated violation of the rules or loss of control.
 
 Original contest format proposal for standardization - no charging, one-on-one, in formation combat with hands-only, utilizing only above the belt and below the shoulders blows.  Contests between opponents with-in two boxing weight classes of each other when equipped.  In padded helmets with face protection, 10 ounce gloves, full and structural neck protection,  heavily padded belts and very heavily padded, down to below the knee shorts.
 
