@@ -68,7 +68,7 @@ Get the peace of mind that if war happens everyone will come home alive, in one 
 
 2. **Prevent war**
 
-Second, show the will to prevent war.
+Second, show [the will to prevent war](./will-to-prevent-war/README.md).
 
 Using the adversarial cooperation mechanisms developed for the first component, develop data aggregation mechanisms and show collective will to resolve the built up tensions in a better way.
 
