@@ -4,7 +4,7 @@ In accordance with [moral values](./Moral_values.md) of forceful defense without
 
 Goal - standardization of the most safe version of tactical, forceful defense without violence between human participants.
 
-A contest for territorial control of a well demarcated area. On a sufficiently firm, stable and not very hard surface.
+A contest for territorial control of a safe (in and around), well demarcated area. On a sufficiently firm, stable and not very hard surface.
 
 Involving only willing, well trained in forceful defense without violence, physically and morally prepared individuals of military service age who have been determined to be fit for participation by a medical authority.  Only male participation in direct forceful contact.
 
