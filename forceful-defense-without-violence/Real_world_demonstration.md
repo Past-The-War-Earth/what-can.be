@@ -12,7 +12,7 @@ Within or between paramilitary or defense-patriotic organizations of a given nat
 
 An observing party with a higher order enforcement authority must be sufficiently present.  The enforcement authority reserves the right to immediately end the contest in case of unmitigated violation of the rules or loss of control.
 
-Original contest format proposal for standardization - no charging, one-on-one, in formation combat with hands-only, utilizing only above the belt and below the shoulders hits.  Contests between opponents with-in two boxing weight classes of each other when equipped.  In padded helmets with face protection, 10 ounce gloves, equivalently padded elbows, full and structural neck protection,  heavily padded belts and very heavily padded, down to below the knee shorts to effectively prevent hits by and to legs and knees.
+Original contest format proposal for standardization - no charging, one-on-one, in formation combat with hands-only, utilizing only above the belt and below the shoulders hits.  Contests between opponents with-in the same boxing weight class without equipment, with weight classes partitioned by unit if necessary.  In padded helmets with face protection, 10 ounce gloves, equivalently continuously padded outer and side forearms and elbows, full and structural neck protection,  heavily padded belts and very heavily padded, down to below the knee shorts to effectively prevent hits by and to legs and knees.  With mandatory pre contest complete equipment checks by the enforcement authority.
 
 No mechanical implements in or around the contest area.  No equipment in the contest area besides safety gear and impact dampening implements. Sufficiently padded body prosthetics are allowed.
 
