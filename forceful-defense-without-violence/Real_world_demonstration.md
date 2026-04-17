@@ -1,10 +1,10 @@
-# Draft Proposal for real world demonstrations
+# Rough Draft Proposal for real world demonstrations
 
 In accordance with [moral values](./Moral_values.md) of forceful defense without violence.
 
 Goal - standardization of the most safe version of tactical, forceful defense without violence between human participants.
 
-A contest for territorial control of a safe, well demarcated area, in safe surroundings. Taking place on a sufficiently firm, grippy, stable, continuous and not very hard surface without any foreign objects except short grass or alike.   With a mandatory pre contest, complete and thorough surface check of the demarcated contest area by the below mentioned enforcement authority. 
+A contest for territorial control of a safe, well demarcated area, in safe surroundings. Taking place on a sufficiently firm, grippy, stable, continuous and not very hard surface.  No water bodies may be present in or immediately adjacent to contest area.  No foreign objects or liquid accumulations may be present in the area at the time of a contest, except short grass or alike.  The contest area must be well lit for the duration of the contest.   With a mandatory pre contest, complete and thorough surface check of the demarcated contest area by the below mentioned enforcement authority. 
 
 Involving only willing, well trained in forceful defense without violence, physically and morally prepared individuals of military service age who have been determined to be fit for participation by a medical authority.  Only male participation in direct forceful contact.
 
