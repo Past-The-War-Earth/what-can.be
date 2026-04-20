@@ -30,7 +30,7 @@ There will always be armor.
 
 ### Stage two
 
-Establish planetary separation of non-destructive Non-Lethal, Non-Mutilating, No Serious Injury human combat and technological combat without direct human participation.  Starting with small-scale [real-world demonstrations](./Real_world_demonstration.md) progressively adopt this system.
+Establish planetary separation of non-destructive [Non-Lethal, Non-Mutilating, No Serious Injury](./Non-Lethal_Non-Mutilating_No_Serious_Injury_combat.md) human combat and technological combat without direct human participation.  Starting with small-scale [real-world demonstrations](./Real_world_demonstration.md) progressively adopt this system.
 
 ...
 
