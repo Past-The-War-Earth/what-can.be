@@ -76,7 +76,7 @@ Using the adversarial cooperation mechanisms developed for the first component, 
 
 3. **Prevent conflict**
 
-Third, demonstrate the ability to resolve tensions before they build into a crisis.
+Third, demonstrate the ability to [resolve tensions](./preventing-conflict/README.md) before they build into a crisis.
 
 Using already developed mechanisms and subsequently developed regulation based, cooperative and deterministic, automated reasoning mechanisms, make decisions mindful of our tensions.
 
