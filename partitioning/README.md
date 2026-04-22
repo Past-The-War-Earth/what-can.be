@@ -2,7 +2,7 @@
 
 > Hypothesis: There is an upcoming junction point between entering lasting planetary peace with balanced geographical zones of influence, or instability driven opportunistic continuation of open hostilities in the next technological cycle.
 
-> Hypothesis: Mass adoption of nuclear fusion energy, robotization and resulting wider political involvement and improved conflict resolution will progressively eliminate lethal, mutilating or seriously injuring combat.
+> Hypothesis: Mass adoption of nuclear fusion energy, wide-scale general robotization, resulting wider political involvement and improved conflict resolution will progressively eliminate lethal, mutilating or seriously injuring combat.
 
 > Hypothesis: Climate changes and full robotization will lead to new fully-automated industrial zones, separate from urban areas.
 
