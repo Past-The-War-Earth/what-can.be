@@ -8,7 +8,7 @@
 
 ## Possible preferred development
 
-Sustained planetary peace is achieved through stability, with (sub-)continentally integrated blocks and balanced cross-block interactions.  With reduced hydrocarbon dependency West Asia gains clear strategic cohesiveness and effectively integrates.  North Eurasia solidarity holds against external pressures.  South East Asia avoids open hostilities and further integrates while cohesively coordinating various external influences.  Africa continues towards continental integration, balancing external forces towards stabilization.  Americas further integrate.
+Sustained planetary peace is achieved through stability, with (sub-)continentally integrated blocks and balanced cross-block interactions.  With reduced hydrocarbon dependency West Asia gains clear strategic cohesiveness and effectively integrates.  North Eurasia solidarily reconciles systemic resilience against external pressures.  South East Asia avoids open hostilities and further integrates while cohesively coordinating various external influences.  Africa continues towards continental integration, balancing external forces towards stabilization.  Americas further integrate.
 
 Mass inter-(sub)continental trade persists and continues to grow across multilateral zones of influence under regional maritime control.
 
