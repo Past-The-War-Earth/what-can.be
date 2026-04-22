@@ -17,7 +17,7 @@ Answer: We can limit violence if all parties in armed conflict mutually agree to
 
 Wars happen for cultural, territorial or economic reasons.  Economic reasons are the most dynamic and least controllable.
 
-> Hypothesis: War can be partitioned into non-destructive and destructive.  Direct human participation can be limited to non-destructive war.
+> Hypothesis: War <a href="./partitioning/README.md">can be partitioned</a> into non-destructive and destructive.  Direct human participation can be limited to non-destructive war.
 
 > For example, blunt impact + adhesive projectile territorial control combat by humans.  Autonomous mech combat in industrial areas.
 
@@ -90,7 +90,7 @@ Then implement this solution in steps:
 
 2. After establishment of forceful defense without violence,  channel it towards fostering moral values over technological superiority.
 
-3. With sufficient passage of time and development of parallel vectors for planetary defense reduce technological dominance in non-destructive human combat.
+3. With sufficient passage of time and development of parallel vectors for [planetary defense](./planetary-defense/README.md) reduce technological dominance in non-destructive human combat.
 
 > Many centuries from now, before full establishment of planetary peace, man-to-man combat should be weaponless with safety gear, overseen by elders.  It is meant  to resolve the remaining differences left after the "who is right" questions have been debated.
 
