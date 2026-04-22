@@ -4,7 +4,7 @@
 
 > Hypothesis: Mass adoption of nuclear fusion energy, robotization and resulting wider political involvement and improved conflict resolution will progressively eliminate destructive combat with direct human participation or.
 
-> Hypothesis: Climatic changes and full robotization will lead to new fully-automated industrial zones, separate from urban areas.
+> Hypothesis: Climate changes and full robotization will lead to new fully-automated industrial zones, separate from urban areas.
 
 ## Possible preferred development
 
